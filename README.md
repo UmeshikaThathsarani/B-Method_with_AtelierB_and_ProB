@@ -36,4 +36,4 @@ Steps for Setting up and Using ProB:
 </ol>
 
 Scenario:
-A paper round manager keeps track of houses that receive deliveries. It uses a state variable houseset & has four operations: add, number, getsPapers & cancelPapers.
+<p>A paper round manager keeps track of houses that receive deliveries. It uses a state variable houseset & has four operations: add, number, getsPapers & cancelPapers.</p>
