@@ -34,3 +34,6 @@ Steps for Setting up and Using ProB:
   <i>File > Open</i>
   <li> To begin animation, double click on INITIALISATION.</li>
 </ol>
+
+Scenario:
+A paper round manager keeps track of houses that receive deliveries. It uses a state variable houseset & has four operations: add, number, getsPapers & cancelPapers.
