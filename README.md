@@ -37,3 +37,15 @@ Steps for Setting up and Using ProB:
 
 Scenario:
 <p>A paper round manager keeps track of houses that receive deliveries. It uses a state variable houseset & has four operations: add, number, getsPapers & cancelPapers.</p>
+
+# Chapter-2 : Sets
+<li>A set is a collection of values called elements or members and all the members of a set must be of the same type.</li>
+<li>Set doesn’t include duplicate values.</li>
+<li>The power set [ P(X) ] of a set X is the set containing all the subsets of X.</li>
+<p>card( P(X) ) = 2<sup>card(X)</sup></p>
+<li>A set comprehension has the general form:</li>
+<p>{ variable | variable ∈ TYPESET ∧ variableCondition }</p>
+<li>The syntax of an enumerated set is:</li>
+<p>ENUMERATED SET = { element1, element2, . . . , elementn }</p>
+<li>When a deferred set is declared the actual elements of the set are not specified.</li>
+
