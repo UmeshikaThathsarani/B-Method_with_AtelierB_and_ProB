@@ -1,5 +1,5 @@
 /* PaperRound
- * Author: UMahaUm
+ * Author: Umeshika
  * Creation date: 10/22/2021
  */
 MACHINE
