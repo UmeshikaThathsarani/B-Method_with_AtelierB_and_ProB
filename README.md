@@ -57,6 +57,6 @@ Scenario:
 <li>An operation is usually described using PRE-THEN-END.</li>
 <li>If the precondition is just true, then we can just use BEGIN-END.</li>
 <li>An operation’s body is called a substitution.</li>
-
+<br>
 Scenario-1:
 <p>The club is parameterised on a set of NAMEs for its members & the maximum capacity for members. Before a person can join the club, i.e. be on the members list, they must first be on the waiting list. Both lists have a maximum size & no one can be on both.There are five club operations: join, join_queue, remove, semi_reset & is_member.</p>
