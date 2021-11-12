@@ -49,3 +49,14 @@ Scenario:
 <p>ENUMERATED SET = { element1, element2, . . . , elementn }</p>
 <li>When a deferred set is declared the actual elements of the set are not specified.</li>
 
+# Chapter-3 : Abstract Machine Notations
+<li>Sets must be written all in UPPERCASE.</li>
+<li>Constants must be written all in lowercase.</li>
+<li>In the B tools, variable names must be at least two characters long.</li>
+<li>Components of an operation are operation interface, precondition, body</li>
+<li>An operation is usually described using PRE-THEN-END.</li>
+<li>If the precondition is just true, then we can just use BEGIN-END.</li>
+<li>An operation’s body is called a substitution.</li>
+<br>
+Scenario-1:
+<p>The club is parameterised on a set of NAMEs for its members & the maximum capacity for members. Before a person can join the club, i.e. be on the members list, they must first be on the waiting list. Both lists have a maximum size & no one can be on both.There are five club operations: join, join_queue, remove, semi_reset & is_member.</p>
