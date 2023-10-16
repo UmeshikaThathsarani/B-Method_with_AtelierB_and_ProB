@@ -60,3 +60,8 @@ Scenario:
 <br>
 Scenario-1:
 <p>The club is parameterised on a set of NAMEs for its members & the maximum capacity for members. Before a person can join the club, i.e. be on the members list, they must first be on the waiting list. Both lists have a maximum size & no one can be on both.There are five club operations: join, join_queue, remove, semi_reset & is_member.</p>
+
+# Chapter-6 : paperround.mch.
+<li>You should create it in a file called paperround.mch.</li>
+<li>Add an enquiry operation getspapers( housenumber ) that checks if the housenumber has papers delivered to it. f it does then it outputs the number 1.</li>
+<li>Add a delete( housenumber ) operation that deletes a house number from the set of house numbers that are delivered to.</li>
